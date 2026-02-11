@@ -9,7 +9,7 @@
 - 👨‍🎓 Hey! I'm Andrew, a Software Development Engineer with a **BSc in Econometrics & Operations Research** and a strong foundation in **computer science fundamentals**.
 - :octocat: I work with **Python, Java, and SQL** on **production, customer-facing systems**, with experience in monitoring, troubleshooting, and improving reliability in 24/7 high-availability environments.
 - 👩‍💻 I enjoy building scalable backend solutions, working close to data, and collaborating with cross-functional teams to solve real-world problems.
-- ⚡ Reach out to me at **YOUR_EMAIL**
+- ⚡ Reach out to me at andrew.kolenchenko@gmail.com
 
 <br/> 
 
