@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="right"></a>
 
-- 👨‍🎓 Hey! I'm Andrew, a Risk Analyst with a **BSc in Econometrics & Operations Research** and a strong foundation in **computer science**.
+- 👨‍🎓 Hey! I'm Andrew, a Risk Analyst with a **BSc in Econometrics & Operations Research** and minor in Advanced Computer Science.
 - :octocat: I work with **Python, Java, and SQL** on **production, customer-facing systems**, with experience in monitoring, troubleshooting, and improving reliability in 24/7 high-availability environments.
 - 👩‍💻 I enjoy building scalable backend solutions, working close to data, and collaborating with cross-functional teams to solve real-world problems.
 - ⚡ Reach out to me at andrew.kolenchenko@gmail.com
